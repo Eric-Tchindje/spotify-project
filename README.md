@@ -167,6 +167,6 @@ spotify-mds-pipeline/
 ## 📣 Author
 **Author:** Tchindje Eric 
 **LinkedIn:** [Eric Tchindje](https://www.linkedin.com/in/eric-tchindje)  
-**GitHub:** [Jay61616](https://github.com/)  
+**GitHub:** [DataPro](https://github.com/Eric-Tchindje)  
 **Contact:** tchindjeeric61@gmail.com
 
