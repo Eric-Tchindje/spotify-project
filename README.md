@@ -25,7 +25,7 @@ data simulation → streaming via Kafka → storage in Snowflake → transformat
 
 ## 🏗️ Architecture
 
-<img width="5600" height="2898" alt="Architectur" src="https://github.com/user-attachments/assets/290a5f78-6992-4e19-8fcf-a1c973e75885" />
+<img width="5600" height="2898" alt="Architectur" src="https://github.com/Eric-Tchindje/spotify-project/blob/master/Maquette-project-linkedin/architecturer-project.png" />
 
 **Pipeline Flow:**
 1. **Data Simulator** → Generates fake Spotify streaming data (user, track, region, device).  
@@ -141,7 +141,7 @@ spotify-mds-pipeline/
   - 📈 **Trends Over Time (Line Chart)**  
   - 💽 **Device-Type Distribution (Donut Chart)**
 
-<img width="1313" height="728" alt="dashboard (2)" src="https://github.com/user-attachments/assets/87b4b28d-9dfa-4346-8550-0a7f05718455" />
+<img width="1313" height="728" alt="dashboard (2)" src="https://github.com/Eric-Tchindje/spotify-project/blob/master/Maquette-project-linkedin/powerbi_2.png" />
 
 ---
 
