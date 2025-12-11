@@ -1,0 +1,8 @@
+Faker==38.2.0
+kafka-python==2.3.0
+python-dotenv==1.2.1
+tzdata==2025.2
+boto3
+snowflake-connector-python
+dbt-core
+dbt-snowflake

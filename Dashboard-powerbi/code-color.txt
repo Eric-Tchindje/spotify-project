@@ -1,0 +1,3 @@
+#45D02F  : green primary
+#DFEEDC : green secondary
+#333333 : background color

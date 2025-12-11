@@ -1,0 +1,2 @@
+Test-NetConnection -ComputerName 127.0.0.1 -Port 29092
+dbt run : run dbt to transform the data

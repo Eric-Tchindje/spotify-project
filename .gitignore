@@ -1,0 +1,36 @@
+# Python cache
+__pycache__/
+*.pyc
+**/__pycache__
+**/*.pyc
+
+# Virtual environments
+.venv/
+venv/
+env/
+venv-spotify_dbt/
+
+# OS files
+.DS_Store
+
+# Logs
+logs/
+
+# Build / target
+**/target/
+
+# dbt
+**/dbt_packages
+
+# Environment files (exclude .env anywhere)
+.env
+**/.env
+
+# Python environments at any level
+**/.venv/
+**/venv/
+**/env/
+**/venv
+
+# Optional: Jupyter notebook checkpoints
+.ipynb_checkpoints/
